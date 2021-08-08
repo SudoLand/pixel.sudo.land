@@ -1,3 +1,3 @@
 # pixel.sudo.land
 
-pixel.sudo.land Website
+Visit [Pixel](https://pixel.sudo.land) website at [`https://pixel.sudo.land`](https://pixel.sudo.land).
