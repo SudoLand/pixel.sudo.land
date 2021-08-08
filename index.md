@@ -5,10 +5,11 @@ layout: home
 
 # Pixel
 
-At SudoLand we create the best software for developers, photographers, and designers by developers, photographers, and designers. Open-Sourced for free forever.
+Pixel is a software for photographers by photographers. Open-Sourced for free forever.
 
 ## Links
 
+-   SudoLand > [SudoLand](//sudo.land)
 -   SudoLand Github Page > [SudoLand Github](//github.com/SudoLand)
 -   [Brontosaurus](//github.com/SudoDotDog/Brontosaurus) authorization solution > [Brontosaurus Land](//brontosaurus.land)
 -   BWNL Packages Index > [BWNL.io](//bwnl.io)
